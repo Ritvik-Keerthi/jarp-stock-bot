@@ -3,6 +3,9 @@
 Members: 
 Aryan Shah, Jay Manjrekar, Pranav Sarathy, Ritvik Keerthi
 
+
+-------------------
+
 Project Description:
 
 Title: Stock Bot: Automated Trading System Using API Integration
