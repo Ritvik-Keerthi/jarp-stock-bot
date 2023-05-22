@@ -11,7 +11,7 @@ Project Description:
 Title: Stock Bot: Automated Trading System Using API Integration
 
 Description:
-The Stock Bot project aims to develop an intelligent and automated trading system that leverages the power of an Application Programming Interface (API) to gather real-time stock market data and make informed investment decisions. This project combines the realms of finance, programming, and data analysis to create a robust tool for traders and investors.
+The Stock Bot project aims to develop an intelligent and automated trading system that leverages the power of an Application Programming Interface (API) to gather real-time stock market data and make informed investment decisions. This project combines the realms of finance, programming, and data analysis to create a robust tool for traders and investors. Through creating this STock Bot Project, we hope to develop a better software, allowing for all people getting into stock to be able to understand how stocks work better and how they can be used in many ways to be helpful.
 
 The primary objective of the Stock Bot is to provide users with an intelligent trading assistant capable of monitoring multiple stocks, analyzing market trends, and executing trades based on predefined strategies or user-defined parameters. By integrating with a reliable and feature-rich financial API, the bot gains access to a vast array of historical and real-time stock market data, enabling it to make data-driven investment decisions.
 
