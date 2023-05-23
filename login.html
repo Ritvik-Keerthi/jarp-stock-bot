@@ -15,7 +15,7 @@
       border: 1px solid black;
       border-radius: 4px;
     }
-    input[type=text], input[type=password] {
+    input[type=text] {
       width: 100%;
       padding: 15px;
       margin: 5px 0 22px 0;
@@ -40,13 +40,15 @@
 <body>
 
 <div class="container">
-  <label for="userid"><b>User ID</b></label>
-  <input type="text" placeholder="Enter User ID" name="userid" required>
+  <form action="/login" method="post">
+    <label for="userid"><b>User ID</b></label>
+    <input type="text" placeholder="Enter User ID" name="userid" required>
 
-  <label for="name"><b>Name</b></label>
-  <input type="text" placeholder="Enter Name" name="name" required>
+    <label for="name"><b>Name</b></label>
+    <input type="text" placeholder="Enter Name" name="name" required>
 
-  <button type="submit">Login</button>
+    <button type="submit">Login</button>
+  </form>
 </div>
 
 </body>
